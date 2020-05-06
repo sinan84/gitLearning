@@ -2,13 +2,22 @@ package tests;
 
 public class Login {
 
-    public static void setup(){
+    public static void main(String[] args) {
 
-        System.out.println("login login");
 
-        
+
+            System.out.println("login login");
+
+
+
+
+
+
+
+
 
 
     }
+
 
 }
