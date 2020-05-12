@@ -6,8 +6,12 @@ public class Practice {
 
             String str="sinan";
 
-            int num1=111;
-            int num2=1212;
+        int num3=12121212;
+        int num4=10;
+        
+        String str2="deneme2";
+        
+        
 
 
 
